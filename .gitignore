@@ -1,0 +1,8 @@
+# Pocketbase executable
+pocketbase
+
+# DB
+backup/
+pb_data/
+pb_migrations/
+
